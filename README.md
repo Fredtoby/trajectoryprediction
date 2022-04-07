@@ -10,10 +10,3 @@ Please cite our work if you found it useful.
   year={2021},
 }
 ```
-
-<p align="center">
-<img src="figures/predict.png" width="260">
-<img src="figures/results.gif" width="266">
-<img src="figures/behavior.gif" width="260">
-</p>
-
